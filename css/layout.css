@@ -1,0 +1,26 @@
+body {
+    background-image: url("../images/logwall.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.page {
+	float: center;
+	margin-top: 50px;
+	margin-right: 100px;
+	margin-left: 100px;
+	margin-bottom: 50px;
+}
+
+#headerimage {
+	width:100%;
+	border-radius: 5px;
+}
+
+#logo {
+	max-width:225px; 
+	margin-top: -65px;
+	margin-left: -50px;
+
+	
+}
