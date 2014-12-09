@@ -1,7 +1,8 @@
 body {
-    background-image: url("../images/logwall.jpg");
+    background-image: url("../images/background3.jpg");
     background-size: 100%;
-    background-repeat: no-repeat;
+    background-repeat: repeat;
+    
 }
 
 .page {
@@ -14,7 +15,11 @@ body {
 
 #headerimage {
 	width:100%;
-	border-radius: 5px;
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+	/*border-top: 5px solid black; #85633a
+	border-left: 5px solid black;
+	border-right: 5px solid black;*/
 }
 
 #logo {
