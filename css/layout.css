@@ -65,9 +65,15 @@ hr {
     border-top: 1px solid rgba(0, 0, 0, 0.1);
     border-bottom: 1px solid rgba(255, 255, 255, 0.3);
 }
-.copyright {
+.contactus {
 	color: grey;
 	text-align: center;
+	vertical-align: middle;
+
+}
+.copyright {
+	color: grey;
+	text-align: right;
 	vertical-align: middle;
 
 }
