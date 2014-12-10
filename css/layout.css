@@ -29,9 +29,6 @@ footer a{
 	width:100%;
 	border-top-left-radius: 5px;
 	border-top-right-radius: 5px;
-	/*border-top: 5px solid black; #85633a
-	border-left: 5px solid black;
-	border-right: 5px solid black;*/
 }
 
 #logo {
@@ -39,8 +36,10 @@ footer a{
 	margin-top: -65px;
 	margin-left: -50px;
 }
+
 .icon{
-	width:80%;
+	width:100%;
+
 }
 .content{
 	
